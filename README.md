@@ -20,5 +20,5 @@ Opciones en donde puedes poner sonido o no.
 ## GameOver Juego
 ![Captura de la ventana de inicio](screenshoots/s3.png)
 
-##Ganador del Juego
+## Ganador del Juego
 ![Captura de la ventana de inicio](screenshoots/s4.png)
