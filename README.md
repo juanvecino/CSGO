@@ -1,6 +1,9 @@
 # CSGO
 
-En primer lugar se ha 
+En primer lugar se ha utilizado Blender para hace un modelo del mapa 3D que posteriormente utilizaremos para jugar
+
+![Captura de la ventana de inicio](screenshoots/s5.png)
+
 ## Ventana inicio
 Ventana que aparece al iniciar el programa, desde la que se puede, entre otras cosas, iniciar el juego.
 ![Captura de la ventana de inicio](screenshoots/s0.png)
