@@ -5,7 +5,7 @@ En primer lugar se ha utilizado Blender para hacer un modelo del mapa 3D que pos
 ![Captura de la ventana de inicio](screenshoots/s5.png)
 
 ## Ventana inicio
-Ventana que aparece al iniciar el programa, desde la que se puede, entre otras cosas, iniciar el juego. O activar/desactivar la musica
+Ventana que aparece al iniciar el programa, desde la que se puede, entre otras cosas, iniciar el juego. O activar/desactivar la musica. Cabe recalcar, como se ha modificado también el logo de la App.
 ![Captura de la ventana de inicio](screenshoots/s0.png)
 
 ## Panel Opciones
